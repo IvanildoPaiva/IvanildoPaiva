@@ -1,7 +1,7 @@
 
 
 
-- 🔭 Hoje trabalho com front-end webe e mobile
+- 🔭 Hoje trabalho com front-end web e mobile
 - 🌱 Estudando Typescript e react-native
 
 
