@@ -5,7 +5,7 @@
 - 🌱 Estudando Typescript e react-native
 
 
-## Oii me chamo Ivanildo Paiva, desenvolvedor JR em HTML5, CSS3, TypeScript e React-Native!
+## Me chamo Ivanildo Paiva, desenvolvedor JR em HTML5, CSS3, TypeScript e React-Native!
 <div align="center">
   <a href="https://github.com/IvanildoPaiva">
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=IvanildoPaiva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
